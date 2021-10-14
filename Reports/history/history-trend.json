@@ -1,0 +1,70 @@
+[ {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/13/allure",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 4,
+    "unknown" : 0,
+    "total" : 5
+  }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/12/allure",
+  "data" : {
+    "failed" : 0,
+    "broken" : 4,
+    "skipped" : 1,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 5
+  }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/11/allure",
+  "data" : {
+    "failed" : 0,
+    "broken" : 4,
+    "skipped" : 1,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 5
+  }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/10/allure",
+  "data" : {
+    "failed" : 0,
+    "broken" : 3,
+    "skipped" : 1,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 5
+  }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/9/allure",
+  "data" : {
+    "failed" : 0,
+    "broken" : 1,
+    "skipped" : 1,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 5
+  }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/8/allure",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 4,
+    "unknown" : 0,
+    "total" : 5
+  }
+}, {
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 0
+  }
+} ]

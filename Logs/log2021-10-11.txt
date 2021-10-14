@@ -1,0 +1,20 @@
+2021-10-11 17:16:19,236 - test_carwale.py:[11] - [INFO] - ******************Inside the NewCar Test**********************
+2021-10-11 17:16:19,545 - BasePage.py:[55] - [INFO] - Move to the element: newCars_XPATH
+2021-10-11 17:16:19,800 - BasePage.py:[22] - [INFO] - Clicking on the element: findNewCars_XPATH
+2021-10-11 17:42:19,378 - test_carwale.py:[21] - [INFO] - ******************Inside the Select car Test**********************
+2021-10-11 18:00:41,753 - test_carwale.py:[21] - [INFO] - ******************Inside the Select car Test**********************
+2021-10-11 18:00:42,045 - BasePage.py:[55] - [INFO] - Move to the element: newCars_XPATH
+2021-10-11 18:00:42,326 - BasePage.py:[22] - [INFO] - Clicking on the element: findNewCars_XPATH
+2021-10-11 18:00:43,276 - BasePage.py:[22] - [INFO] - Clicking on the element: bmw_XPATH
+2021-10-11 18:01:19,646 - test_carwale.py:[21] - [INFO] - ******************Inside the Select car Test**********************
+2021-10-11 18:01:19,972 - BasePage.py:[55] - [INFO] - Move to the element: newCars_XPATH
+2021-10-11 18:01:20,238 - BasePage.py:[22] - [INFO] - Clicking on the element: findNewCars_XPATH
+2021-10-11 18:01:22,325 - BasePage.py:[22] - [INFO] - Clicking on the element: hyundayi_XPATH
+2021-10-11 18:01:55,213 - test_carwale.py:[21] - [INFO] - ******************Inside the Select car Test**********************
+2021-10-11 18:01:55,522 - BasePage.py:[55] - [INFO] - Move to the element: newCars_XPATH
+2021-10-11 18:01:55,821 - BasePage.py:[22] - [INFO] - Clicking on the element: findNewCars_XPATH
+2021-10-11 18:01:56,581 - BasePage.py:[22] - [INFO] - Clicking on the element: toyota_XPATH
+2021-10-11 18:02:27,948 - test_carwale.py:[21] - [INFO] - ******************Inside the Select car Test**********************
+2021-10-11 18:02:28,277 - BasePage.py:[55] - [INFO] - Move to the element: newCars_XPATH
+2021-10-11 18:02:28,659 - BasePage.py:[22] - [INFO] - Clicking on the element: findNewCars_XPATH
+2021-10-11 18:02:29,906 - BasePage.py:[22] - [INFO] - Clicking on the element: honda_XPATH

@@ -1,0 +1,33 @@
+[ {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/13/allure",
+  "data" : {
+    "duration" : 113494
+  }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/12/allure",
+  "data" : {
+    "duration" : 583142
+  }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/11/allure",
+  "data" : {
+    "duration" : 319283
+  }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/10/allure",
+  "data" : {
+    "duration" : 349683
+  }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/9/allure",
+  "data" : {
+    "duration" : 168775
+  }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/8/allure",
+  "data" : {
+    "duration" : 150703
+  }
+}, {
+  "data" : { }
+} ]

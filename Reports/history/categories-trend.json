@@ -1,0 +1,29 @@
+[ {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/13/allure",
+  "data" : { }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/12/allure",
+  "data" : {
+    "Test defects" : 4
+  }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/11/allure",
+  "data" : {
+    "Test defects" : 4
+  }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/10/allure",
+  "data" : {
+    "Test defects" : 3
+  }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/9/allure",
+  "data" : {
+    "Test defects" : 1
+  }
+}, {
+  "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/8/allure",
+  "data" : { }
+}, {
+  "data" : { }
+} ]

@@ -1,0 +1,345 @@
+{
+  "8fa1072bd3e5e8bf9ac6187f2f47316a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "f9b39cc9beac23a1",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/13/allure/#testresult/f9b39cc9beac23a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634193667212,
+        "stop" : 1634193675995,
+        "duration" : 8783
+      }
+    }, {
+      "uid" : "3d35f15aee92c7d7",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/12/allure/#testresult/3d35f15aee92c7d7",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(),'Find New Cars')]\"}\n  (Session info: chrome=94.0.4606.81)",
+      "time" : {
+        "start" : 1634192851194,
+        "stop" : 1634192861546,
+        "duration" : 10352
+      }
+    }, {
+      "uid" : "35442b8f26025eed",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/11/allure/#testresult/35442b8f26025eed",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(),'Find New Cars')]\"}\n  (Session info: chrome=94.0.4606.81)",
+      "time" : {
+        "start" : 1634192851194,
+        "stop" : 1634192861546,
+        "duration" : 10352
+      }
+    }, {
+      "uid" : "24b8ffb3e25a1477",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/10/allure/#testresult/24b8ffb3e25a1477",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(),'Find New Cars')]\"}\n  (Session info: chrome=94.0.4606.81)",
+      "time" : {
+        "start" : 1634189720203,
+        "stop" : 1634189730563,
+        "duration" : 10360
+      }
+    }, {
+      "uid" : "3121f3aa63125900",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/9/allure/#testresult/3121f3aa63125900",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634148614009,
+        "stop" : 1634148622928,
+        "duration" : 8919
+      }
+    }, {
+      "uid" : "22f887f605d13e6c",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/8/allure/#testresult/22f887f605d13e6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634148321894,
+        "stop" : 1634148329756,
+        "duration" : 7862
+      }
+    } ]
+  },
+  "2c9a270d47734882b51ac7b82a54b530" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "c9957cbc4fde756e",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/13/allure/#testresult/c9957cbc4fde756e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634193578776,
+        "stop" : 1634193590230,
+        "duration" : 11454
+      }
+    }, {
+      "uid" : "8a1671e67636ed00",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/12/allure/#testresult/8a1671e67636ed00",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(),'Find New Cars')]\"}\n  (Session info: chrome=94.0.4606.81)",
+      "time" : {
+        "start" : 1634192630323,
+        "stop" : 1634192640660,
+        "duration" : 10337
+      }
+    }, {
+      "uid" : "ca407018a7b75d3c",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/11/allure/#testresult/ca407018a7b75d3c",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(),'Find New Cars')]\"}\n  (Session info: chrome=94.0.4606.81)",
+      "time" : {
+        "start" : 1634192630323,
+        "stop" : 1634192640660,
+        "duration" : 10337
+      }
+    }, {
+      "uid" : "8a5845ba30c61917",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/10/allure/#testresult/8a5845ba30c61917",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634189484528,
+        "stop" : 1634189503758,
+        "duration" : 19230
+      }
+    }, {
+      "uid" : "814f47040e59d677",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/9/allure/#testresult/814f47040e59d677",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/div[1]/h1[1]\"}\n  (Session info: chrome=94.0.4606.81)",
+      "time" : {
+        "start" : 1634148480912,
+        "stop" : 1634148492683,
+        "duration" : 11771
+      }
+    }, {
+      "uid" : "17bcab8dbaa4ea76",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/8/allure/#testresult/17bcab8dbaa4ea76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634148209646,
+        "stop" : 1634148228067,
+        "duration" : 18421
+      }
+    } ]
+  },
+  "c6bbed2f7148f4cb9766ab16325aa234" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "3a9c75f13df984ac",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/13/allure/#testresult/3a9c75f13df984ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634193611042,
+        "stop" : 1634193620881,
+        "duration" : 9839
+      }
+    }, {
+      "uid" : "5ff62dce5db02ea3",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/12/allure/#testresult/5ff62dce5db02ea3",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(),'Find New Cars')]\"}\n  (Session info: chrome=94.0.4606.81)",
+      "time" : {
+        "start" : 1634192680815,
+        "stop" : 1634192691237,
+        "duration" : 10422
+      }
+    }, {
+      "uid" : "4fb42fe42a0cbb64",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/11/allure/#testresult/4fb42fe42a0cbb64",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(),'Find New Cars')]\"}\n  (Session info: chrome=94.0.4606.81)",
+      "time" : {
+        "start" : 1634192680815,
+        "stop" : 1634192691237,
+        "duration" : 10422
+      }
+    }, {
+      "uid" : "8e3a9ef326bb0327",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/10/allure/#testresult/8e3a9ef326bb0327",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(),'Find New Cars')]\"}\n  (Session info: chrome=94.0.4606.81)",
+      "time" : {
+        "start" : 1634189574088,
+        "stop" : 1634189585047,
+        "duration" : 10959
+      }
+    }, {
+      "uid" : "7b84b28c7bc5efc8",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/9/allure/#testresult/7b84b28c7bc5efc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634148540782,
+        "stop" : 1634148549876,
+        "duration" : 9094
+      }
+    }, {
+      "uid" : "b3f187789745a0e4",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/8/allure/#testresult/b3f187789745a0e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634148258724,
+        "stop" : 1634148269312,
+        "duration" : 10588
+      }
+    } ]
+  },
+  "8e498c7ef3866eb96c5e9a35367d06da" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 6,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "de24f84b0eea7ed8",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/13/allure/#testresult/de24f84b0eea7ed8",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1634193562501,
+        "stop" : 1634193562501,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "52a59007f95ab8c7",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/12/allure/#testresult/52a59007f95ab8c7",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1634193213465,
+        "stop" : 1634193213465,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cecac99b92c2d96a",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/11/allure/#testresult/cecac99b92c2d96a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1634192542263,
+        "stop" : 1634192542263,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e58d9b9564a4790b",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/10/allure/#testresult/e58d9b9564a4790b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1634189380880,
+        "stop" : 1634189380880,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "54c488b5354befdb",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/9/allure/#testresult/54c488b5354befdb",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1634148454153,
+        "stop" : 1634148454153,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ff2fd946b7f1d2db",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/8/allure/#testresult/ff2fd946b7f1d2db",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1634148179053,
+        "stop" : 1634148179053,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1cb67309ce1cf1ff6075cb660f057037" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "8fccdccf721321c9",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/13/allure/#testresult/8fccdccf721321c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634193636543,
+        "stop" : 1634193646529,
+        "duration" : 9986
+      }
+    }, {
+      "uid" : "65efafbc4bdfbe41",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/12/allure/#testresult/65efafbc4bdfbe41",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(),'Find New Cars')]\"}\n  (Session info: chrome=94.0.4606.81)",
+      "time" : {
+        "start" : 1634192788545,
+        "stop" : 1634192798979,
+        "duration" : 10434
+      }
+    }, {
+      "uid" : "6807033fa60252c9",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/11/allure/#testresult/6807033fa60252c9",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(),'Find New Cars')]\"}\n  (Session info: chrome=94.0.4606.81)",
+      "time" : {
+        "start" : 1634192788545,
+        "stop" : 1634192798979,
+        "duration" : 10434
+      }
+    }, {
+      "uid" : "c531d1bed87acbcb",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/10/allure/#testresult/c531d1bed87acbcb",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(),'Find New Cars')]\"}\n  (Session info: chrome=94.0.4606.81)",
+      "time" : {
+        "start" : 1634189648614,
+        "stop" : 1634189658973,
+        "duration" : 10359
+      }
+    }, {
+      "uid" : "ae04c8d8f42f37a6",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/9/allure/#testresult/ae04c8d8f42f37a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634148571742,
+        "stop" : 1634148580284,
+        "duration" : 8542
+      }
+    }, {
+      "uid" : "2007a036fcef2e85",
+      "reportUrl" : "http://localhost:8080/job/PytestPageObjectModel/8/allure/#testresult/2007a036fcef2e85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634148291242,
+        "stop" : 1634148299202,
+        "duration" : 7960
+      }
+    } ]
+  }
+}
