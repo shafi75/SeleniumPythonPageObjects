@@ -27,14 +27,18 @@ def log_on_failure(request,get_browser):
     if item.rep_call.failed:
         allure.attach(driver.get_screenshot_as_png(), name="error", attachment_type=AttachmentType.PNG)
 
-@pytest.fixture(params=["chrome"],scope="function")
+@pytest.fixture(params=["chrome","firefox","edge"],scope="function")
 def get_browser(request):
     global driver
+    remote_url="http://localhost:4444/wd/hub"
     if request.param=="chrome":
-      driver=webdriver.Chrome(executable_path=ChromeDriverManager().install())
-    # if request.param=="edge":
+        driver=webdriver.Remote(command_executor=remote_url,desired_capabilities={"browserName":"chrome"})
+      # driver=webdriver.Chrome(executable_path=ChromeDriverManager().install())
+    if request.param=="edge":
+        driver = webdriver.Remote(command_executor=remote_url, desired_capabilities={"browserName": "edge"})
     #     driver = webdriver.Edge(executable_path=EdgeChromiumDriverManager().install())
-    # if request.param=="firefox":
+    if request.param=="firefox":
+        driver = webdriver.Remote(command_executor=remote_url, desired_capabilities={"browserName": "firefox"})
     #     driver = webdriver.Edge(executable_path=GeckoDriverManager().install())
     request.cls.driver=driver
     driver.implicitly_wait(10)
