@@ -55,7 +55,7 @@ class Test_Carwale(BaseTest):
         if carModel == "BMW":
             home.gotoNewCars().selectBMW()
             actual_title = car.getCarTitle()
-            print(("The actual title is: " + actual_title).encode("utf8"))
+            # print(("The actual title is: " + actual_title).encode("utf8"))
             assert actual_title == carTitle, "Not on the correct page,title is not matching"
             car.getCarNameandPrice()
         elif carModel == "Hyundayi":
